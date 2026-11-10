@@ -1,0 +1,4 @@
+Z2|Snow Leopard|2|650
+Z1|Musk Deer|3|450
+Z3|Himalayan Monal|4|800Z2|Snow Leopard|2|650.0
+Z1|Musk Deer|3|450.0
